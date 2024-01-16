@@ -1,0 +1,3 @@
+[submodule "DataEngineering/DataEngineering/SQL"]
+	path = DataEngineering/DataEngineering/SQL
+	url = https://github.com/Androjerson/DataEngineering.git
